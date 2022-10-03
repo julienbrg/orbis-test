@@ -4,7 +4,7 @@ function App() {
 
 	return (
 		<Box>
-			<Text>Hello World</Text>
+			<Text>Yo</Text>
 		</Box>
 	);
 }
